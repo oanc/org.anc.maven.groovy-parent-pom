@@ -33,7 +33,7 @@
 		<url>http://www.anc.org</url>
 	</organization>
 	<properties>
-		<groovy.version>2.5.3</groovy.version>
+		<groovy.version>2.5.14</groovy.version>
 	</properties>
 	<build>
 		<plugins>
